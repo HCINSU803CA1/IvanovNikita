@@ -37,13 +37,13 @@ namespace TEST
                         rezult = Int32.Parse(operands[0]) + Int32.Parse(operands[1]);
                         break;
                     case '-':
-                        rezult = Int32.Parse(operands[0]) + Int32.Parse(operands[1]);
+                        rezult = Int32.Parse(operands[0]) - Int32.Parse(operands[1]);
                         break;
                     case '*':
-                        rezult = Int32.Parse(operands[0]) + Int32.Parse(operands[1]);
+                        rezult = Int32.Parse(operands[0]) * Int32.Parse(operands[1]);
                         break;
                     case '/':
-                        rezult = Int32.Parse(operands[0]) + Int32.Parse(operands[1]);
+                        rezult = Int32.Parse(operands[0]) / Int32.Parse(operands[1]);
                         break;
                 }
                 textBox1.Text += "=" + rezult.ToString();
