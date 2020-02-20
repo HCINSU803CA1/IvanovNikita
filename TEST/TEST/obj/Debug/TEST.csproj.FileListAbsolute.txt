@@ -1,0 +1,9 @@
+C:\Users\Nikita\source\repos\TEST\TEST\bin\Debug\TEST.exe.config
+C:\Users\Nikita\source\repos\TEST\TEST\bin\Debug\TEST.exe
+C:\Users\Nikita\source\repos\TEST\TEST\bin\Debug\TEST.pdb
+C:\Users\Nikita\source\repos\TEST\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\TEST\TEST\obj\Debug\TEST.Form1.resources
+C:\Users\Nikita\source\repos\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\Nikita\source\repos\TEST\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\TEST\TEST\obj\Debug\TEST.exe
+C:\Users\Nikita\source\repos\TEST\TEST\obj\Debug\TEST.pdb
